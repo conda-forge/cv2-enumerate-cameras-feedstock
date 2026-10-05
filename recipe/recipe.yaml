@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.3.4"
+  version: "1.4.0"
 
 package:
   name: cv2-enumerate-cameras
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/cv2-enumerate-cameras/cv2_enumerate_cameras-${{ version }}.tar.gz
-  sha256: e4e76e330c39806e9bc5f6ca307eecd7725bbca07b0045318b78ad9339bf25a8
+  sha256: d6f39a236e15cc1bddf00e852a4c6bdfea94d3eebb2d3213848bb5c4036b0689
 
 build:
   number: 0
